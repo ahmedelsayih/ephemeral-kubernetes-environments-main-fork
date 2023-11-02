@@ -1,4 +1,4 @@
-name: Development Environment Worker
+name: Deploy Worker
 
 on:
   workflow_dispatch:

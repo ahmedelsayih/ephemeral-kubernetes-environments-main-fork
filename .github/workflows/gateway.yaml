@@ -1,4 +1,4 @@
-name: Development Environment gateway
+name: Deploy Gateway
 on:
   workflow_dispatch:
     
